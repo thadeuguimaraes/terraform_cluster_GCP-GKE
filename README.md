@@ -1,6 +1,6 @@
 # Terraform Cluster GCP-GKE
 
-Este projeto utiliza o Terraform para criar um cluster no Google Kubernetes Engine (GKE) e instalar o Jenkins no namespace test-dev-001.
+Este projeto utiliza o Terraform para criar um cluster no Google Kubernetes Engine (GKE) e instalar o Jenkins no namespace test-dev-001 para fazer deploy .
 
 ## Pré-requisitos
 
